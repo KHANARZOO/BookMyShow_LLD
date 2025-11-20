@@ -1,7 +1,7 @@
 package com.bookmyshow_lld.models;
 
 public enum BookingStatus {
-    CONFIRMED,
-    CANCELLED,
-    PENDING
+    CONFIRMED, //Default Value - 0
+    CANCELLED, //Default Value 1
+    PENDING    //Default Value 2
 }
