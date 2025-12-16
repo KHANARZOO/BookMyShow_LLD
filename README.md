@@ -1,4 +1,4 @@
-BookMyShow — System Overview
+BookMyShow Overview
 A movie ticket booking system that allows users to browse and book show tickets across cities.
 Core Requirements:
 List all cities where theaters are present.
