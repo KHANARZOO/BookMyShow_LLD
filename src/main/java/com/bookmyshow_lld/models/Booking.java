@@ -14,7 +14,7 @@ public class Booking extends BaseModel{
     @Enumerated(EnumType.ORDINAL)
     private BookingStatus bookingStatus;
     @ManyToOne
-    private Users user;
+    private User user;
     @OneToMany
     private List<Payment> payment;
     @ManyToMany
